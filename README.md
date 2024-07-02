@@ -1,8 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kamrul+Islam....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<p align="center">I am Md Kamrul Islam, a dedicated front-end developer from Bangladesh. </p>
 
 <hr>
 <h2 align="center">🔥 Languages  & Tools  🔥</h2>
