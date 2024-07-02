@@ -10,20 +10,22 @@
 <h2 align="center">🔥 Languages  & Tools  🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Java" height="25" src="images/node.png"></code>
-  <code><img title="Java" height="25" src="images/express.png"></code>
-  <code><img title="Java" height="25" src="images/tailwind.png"></code>
-  <code><img title="Java" height="25" src="images/bootstrap.png"></code>
-  <code><img title="Java" height="25" src="images/firebase.png"></code>
+  <code><img title="C" height="35" src="images/c.svg"></code>
+  <code><img title="C++" height="35" src="images/cpp.svg"></code>
+  <code><img title="Python" height="35" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="35" src="images/html5.svg"></code>
+  <code><img title="CSS" height="35" src="images/css.svg"></code>
+  <br><br>
+  <code><img title="React" height="35" src="images/react-original.svg"></code>
+  <code><img title="Git" height="35" src="images/git-original.svg"></code>
+  <code><img title="Java" height="35" src="images/java-original.svg"></code>
+  <code><img title="Java" height="35" src="images/node.png"></code>
+  <code><img title="Java" height="35" src="images/express.png"></code>
+  <br><br>
+  <code><img title="Java" height="35" src="images/tailwind.png"></code>
+  <code><img title="Java" height="35" src="images/bootstrap.png"></code>
+  <code><img title="Java" height="35" src="images/firebase.png"></code>
   
 </p>
 <hr>
