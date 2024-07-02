@@ -46,7 +46,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-171&theme=react&border=61dafb&hide_border=true" alt="kamrul-islam-171" />
+      <img  width=390  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-171&theme=react&border=61dafb&hide_border=true" alt="kamrul-islam-171" />
 <!--       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" /> -->
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
