@@ -4,9 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Kamrul 👋 I'm a 🚀 Front-end Developer 🚀 Nice ❤️ to meet you ❤️">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Md Kamrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
