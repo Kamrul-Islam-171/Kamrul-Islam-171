@@ -25,7 +25,17 @@
   
 </p>
 <hr>
+<br>
 
+## :eyes: Current overview
+
+### 🔭 I’ve learned - The MERN stack and am actively looking for jobs.. 
+### 🌱 I’m exploring - Next.js. 
+### 👯 I’m looking - For job opportunities. 
+### ⚡ Fun fact - I’m a competitive programmer and love problem solving.
+
+
+<br />
 
 <h1 align="center">Hi 👋, I'm Md Kamrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
