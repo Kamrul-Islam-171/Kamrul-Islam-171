@@ -12,14 +12,13 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Java" height="25" src="images/node.png"></code>
-  
+  <code><img title="Java" height="25" src="images/express.png"></code>
   <code><img title="Java" height="25" src="images/tailwind.png"></code>
   <code><img title="Java" height="25" src="images/bootstrap.png"></code>
   <code><img title="Java" height="25" src="images/firebase.png"></code>
