@@ -18,6 +18,7 @@
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Java" height="25" src="images/node.png"></code>
   
 </p>
 <hr>
