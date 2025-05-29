@@ -44,7 +44,7 @@
 </div>
 
 ### 🔭 I’ve learned - The MERN stack. 
-### 🌱 I’m exploring - Next.js. 
+### 🌱 I’m exploring - PostgreSQL. 
 ### 👯 I’m looking - For job opportunities. 
 ### ⚡ Fun fact - I’m a competitive programmer and love problem solving.
 
