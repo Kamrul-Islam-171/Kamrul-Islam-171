@@ -1,4 +1,4 @@
-<img src="https://github.com/Kamrul-Islam-171/Kamrul-Islam-171/blob/main/11552697_20892632.jpg" alt="kamrul GitHub README header image">
+<img src="https://github.com/Kamrul-Islam-171/Kamrul-Islam-171/blob/main/react%20js.png" alt="kamrul GitHub README header image">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,28 +6,33 @@
   </a>
 </h1>
 
-<p align="center">I am Md Kamrul Islam, a dedicated front-end developer from Bangladesh. </p>
+# <p align="center">I am Md Kamrul Islam, a Full-Stack Developer from Bangladesh, specializing in building modern, responsive, and scalable web applications. </p>
 
 <hr>
 <h2 align="center">🔥 Languages  & Tools  🔥</h2>
 <br>
 <p align="center">
+  <code><img title="React" height="35" src="images/react-original.svg"></code>
+  <code><img title="Next js" height="35" src="images/NEXTJS.png"></code>
+  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
+  <code><img title="TS" height="35" src="images/ts.png"></code>
+  <code><img title="Node" height="35" src="images/node.png"></code>
+  <code><img title="Express" height="35" src="images/express.png"></code>
+  <code><img title="Redux" height="35" src="images/redux.svg"></code>
+  <br><br>
+  <code><img title="MongoDb" height="35" src="images/mongodb.png"></code>
+  <code><img title="Postgresql" height="35" src="images/postgresql.svg"></code>
+  <code><img title="HTML5" height="35" src="images/html5.svg"></code>
+  <code><img title="CSS" height="35" src="images/css.svg"></code>
+  <code><img title="Tailwind" height="35" src="images/tailwind.png"></code>
+  <code><img title="Bootstrap" height="35" src="images/bootstrap.png"></code>
+  <br><br>
   <code><img title="C" height="35" src="images/c.svg"></code>
   <code><img title="C++" height="35" src="images/cpp.svg"></code>
   <code><img title="Python" height="35" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="35" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="35" src="images/html5.svg"></code>
-  <code><img title="CSS" height="35" src="images/css.svg"></code>
-  <br><br>
-  <code><img title="React" height="35" src="images/react-original.svg"></code>
-  <code><img title="Git" height="35" src="images/git-original.svg"></code>
   <code><img title="Java" height="35" src="images/java-original.svg"></code>
-  <code><img title="Java" height="35" src="images/node.png"></code>
-  <code><img title="Java" height="35" src="images/express.png"></code>
-  <br><br>
-  <code><img title="Java" height="35" src="images/tailwind.png"></code>
-  <code><img title="Java" height="35" src="images/bootstrap.png"></code>
-  <code><img title="Java" height="35" src="images/firebase.png"></code>
+  <code><img title="Firebase" height="35" src="images/firebase.png"></code>
+  <code><img title="Git" height="35" src="images/git-original.svg"></code>
   
 </p>
 <hr>
