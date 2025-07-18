@@ -8,6 +8,25 @@
 
 # <p align="center">I am Md Kamrul Islam, a Full-Stack Developer from Bangladesh, specializing in building modern, responsive, and scalable web applications. </p>
 
+## 👋 About Me
+
+
+
+
+🚀 I’m a full-stack developer passionate about building modern web applications and continuously exploring new technologies.
+
+- 🔧 Currently working on **WebSockets** for real-time communication.
+- 🌱 Actively learning **Next.js** and other web technologies.
+- 💼 Open to exciting **job opportunities** in software development.
+- 🧠 I enjoy solving complex problems and have a background in **competitive programming**.
+
+📫 Reach me at: [kamrul.ruet.171@gmail.com](mailto:kamrul.ruet.171@gmail.com)  
+🌐 Portfolio: [Md Kamrul Islam](https://kamrulislamportfolio.vercel.app)
+
+---
+
+Let's connect and build something great together!
+
 <hr>
 <h2 align="center">🔥 Languages  & Tools  🔥</h2>
 <br>
@@ -38,15 +57,8 @@
 <hr>
 <br>
 
-## :eyes: Current overview
-<div >
-  <img   alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-</div>
 
-### 🔭 I’ve learned - The MERN stack. 
-### 🌱 I’m exploring - PostgreSQL. 
-### 👯 I’m looking - For job opportunities. 
-### ⚡ Fun fact - I’m a competitive programmer and love problem solving.
+
 
 <br />
 
